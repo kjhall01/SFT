@@ -1,0 +1,70 @@
+{
+    "MOS": "CCA",
+    "ccamodes_max": 5,
+    "ccamodes_min": 1,
+    "cptdir": "/Users/kylehall/CPT/16.5.8/",
+    "elo1": 100,
+    "elo2": 94,
+    "eofmodes": 3,
+    "force_download": false,
+    "fyr": 2020,
+    "initialized": 0,
+    "map_color": "CPT",
+    "met": [
+        "Pearson",
+        "Spearman",
+        "2AFC",
+        "RocAbove",
+        "RocBelow",
+        "RMSE",
+        "Ignorance",
+        "RPSS",
+        "GROC"
+    ],
+    "models": [
+        "GFDL-CM2p1-aer04",
+        "COLA-RSMAS-CCSM4"
+    ],
+    "monf": [
+        "May",
+        "Sep"
+    ],
+    "mons": [
+        "May",
+        "Sep"
+    ],
+    "nla1": 35,
+    "nla2": 28,
+    "obs": "ENACTS-BD",
+    "predictand": "PRCP",
+    "predictor": "PRCP",
+    "shp_file": "None",
+    "sla1": 15,
+    "sla2": 20,
+    "station": false,
+    "tend": 2009,
+    "tgtf": [
+        "4.5",
+        "3.5"
+    ],
+    "tgti": [
+        "1.5",
+        "1.5"
+    ],
+    "tgts": [
+        "Jun-Sep",
+        "Oct-Dec"
+    ],
+    "tini": 1982,
+    "use_default": "True",
+    "use_topo": "False",
+    "verbose": false,
+    "wlo1": 80,
+    "wlo2": 87,
+    "work": "Test",
+    "workdir": "/Users/kylehall/Projects/PYCPT/PyCPT-Official",
+    "xmodes_max": 5,
+    "xmodes_min": 1,
+    "ymodes_max": 5,
+    "ymodes_min": 2
+}
