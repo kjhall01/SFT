@@ -1,10 +1,9 @@
-PyCPT-KJCH
-Refactoring / unification / development of PyCPT by Kyle Hall, the IRI's wrapper for the Climate Prediction Tool
+Seasonal Forecasting Tool
+Python tool for seasonal forecasting by Kyle Hall. Based on PyCPT, the IRI's wrapper for the Climate Prediction Tool
 
 Since the last version:
 -> Refactored to employ object-oriented programming
 -> Documented comprehensively through docstrings and inline comments
--> Created UML diagrams & Training materials
 -> Added command-line functionality
 -> Added automated Testing capacity
 -> Added PyCPT Parameter saving / loading capactiy
@@ -23,7 +22,7 @@ Kyle Hall (kjh2171@columbia.edu)
 Mentor/Advisor/Contributor:
 Nachiketa Acharya (nachiketa@iri.columbia.edu)
 
-Original PyCPT Authors:
+PyCPT Authors:
 Ángel G. Muñoz (agmunoz@iri.columbia.edu), Andrew W. Robertson (awr@iri.columbia.edu), Simon J. Mason (simon@iri.columbia.edu)
 
 Acknowledgements:
