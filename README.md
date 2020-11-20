@@ -1,5 +1,5 @@
 Seasonal Forecasting Tool
-Python tool for seasonal forecasting by Kyle Hall. Based on PyCPT, the IRI's wrapper for the Climate Prediction Tool
+Python tool for seasonal forecasting by Kyle Hall. Implements and expands on PyCPT, the IRI's wrapper for the Climate Prediction Tool
 
 Since the last version:
 -> Refactored to employ object-oriented programming
