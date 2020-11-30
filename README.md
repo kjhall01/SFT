@@ -1,7 +1,9 @@
-Seasonal Forecasting Tool
-Python tool for seasonal forecasting. Implements and expands on PyCPT, the IRI's wrapper for the Climate Prediction Tool.
+Seasonal Forecasting Tool (SFT) 
+
+Python package for seasonal climate forecasting. Implements and expands on PyCPT, the IRI's wrapper for the Climate Prediction Tool.
 
 Since the last version:
+
 -> Refactored to employ object-oriented programming
 
 -> Documented comprehensively through docstrings and inline comments
